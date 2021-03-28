@@ -3,6 +3,7 @@
 ```
 npm install -g ts-node typescript //global
 npm install --save-dev ts-node typescript //dev dependency
+npm install --save-dev ts-node-dev
 ```
 ### running files
 ```
